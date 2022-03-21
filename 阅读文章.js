@@ -1,8 +1,6 @@
 /*
 中青看点
-赞赏:邀请码 60555415
-技术交流群，212796668、681030097
-教程地址：http://cxgc.top
+
 脚本兼容: QuantumultX, Surge, Loon, JSBox, Node.js
 ============Quantumultx===============
 [task_local]
